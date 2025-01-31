@@ -18,6 +18,14 @@ This is the backend application for the Shortify project, built primarily with N
 
 ## API
 
+### Endpoints
+
+- **POST /shorten**: Create a short URL
+- **GET /shorten/:shortUrl**: Redirect to the original URL
+- **GET /shorten/info/:shortUrl**: Get information about a short URL
+- **DELETE /shorten/delete/:shortUrl**: Delete a short URL
+- **GET /shorten/analytics/:shortUrl**: Get analytics for a short URL
+
 ## Technologies Used
 
 - **NestJS**: A progressive Node.js framework for building efficient and scalable server-side applications.
