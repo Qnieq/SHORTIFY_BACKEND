@@ -1,5 +1,10 @@
-# SHORTIFY BACKEND
 
+
+
+# SHORTIFY BACKEND
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="60" alt="Nest Logo" /></a>
+</p>
 This is the backend application for the Shortify project, built primarily with NestJS and Prisma. Shortify is a URL shortening service that provides users with a simple way to generate short, manageable URLs.
 
 ## Table of Contents
@@ -75,14 +80,3 @@ To install and run the application locally, follow these steps:
 ## Usage
 
 Once the application is up and running, you can access the API at `http://localhost:3005`. You can use the API to shorten URLs and track their usage.
-
-
-
-
-
-
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-</p>
-
-
